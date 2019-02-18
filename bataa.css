@@ -1,0 +1,89 @@
+body {
+	font-family: "source-sans-pro",sans-serif;
+	font-size: normal;}
+td {
+	font-family: "source-sans-pro",sans-serif;
+	font-size: normal;}
+th {
+	font-family: "source-sans-pro",sans-serif;
+	font-size: normal;}
+iframe {
+    border: 1px solid black;
+    width: 100%;}
+.output {
+    background: #ffffff;}
+.spaced {
+	font-family: "source-sans-pro",sans-serif;
+	font-size:normal; text-align:justify; line-height:130%;}
+.bodystyle {
+	font-family: "source-sans-pro",sans-serif;
+	font-size: normal;}
+.small {
+	font-family: "source-sans-pro",sans-serif;
+	font-size: 9px;}
+.medium {
+	font-family: "source-sans-pro",sans-serif;
+	font-size: normal;}
+.big {
+	font-family: "source-sans-pro",sans-serif;
+	font-size: 16px;}
+.xbig {
+	font-family: "source-sans-pro",sans-serif;
+	font-size: 24px;}
+.expanded {
+	font-family: "source-sans-pro",sans-serif;
+	font-size: normal;
+	line-height: 16px;
+	letter-spacing: 2px;}
+.justified {
+	font-family: "source-sans-pro",sans-serif;
+	text-align: justify;}
+.footer {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 9px;
+	color: #999999;}
+.publication_normal {
+	font-family: "source-sans-pro", sans-serif;
+	font-size:normal;
+	margin-left: 20px;
+	text-indent: -20px;
+	text-align:justify; line-height:130%;}
+.publication_small {
+	font-family: "source-sans-pro", sans-serif;
+	font-size:12px;
+	margin-left: 20px;
+	text-indent: -20px;
+	text-align:justify;
+	line-height:140%;}
+.box1 {
+	padding: 3px;
+	border-width: thin;
+	border-style: solid;
+	border-color: #CCCCCC #666666 #666666 #CCCCCC;}
+.box2 {
+	font-style: italic;
+	word-spacing: 2pt;
+	padding: 3px;
+	border-width: thin;
+	border-style: solid;}
+ul	{
+    list-style-type: none;
+	padding:0; margin:0; display:inline-block;}
+.nav {font-family: "source-sans-pro",sans-serif;}
+
+a.nav:link {color: #000000;
+	font-family: "source-sans-pro",sans-serif;}
+a.nav:visited {color: #000000; text-decoration: none}
+a.nav:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+	background-color:transparent;
+	padding: 0px;}
+.home {font-family: "source-sans-pro",sans-serif}
+a.home:link {color: #FFFFFF;
+	text-decoration: none;}
+a.home:visited {color: #FFFFFF;
+	text-decoration: none;}
+a.home:hover {
+	color: #FFFFFF;
+	text-decoration: underline;}
